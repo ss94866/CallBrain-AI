@@ -1,0 +1,5 @@
+{
+  "name": "CallBrain Web",
+  "description": "A powerful call analysis dashboard using Gemini 2.5 Flash for transcription, summarization, and action item extraction from audio files.",
+  "requestFramePermissions": []
+}
